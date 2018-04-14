@@ -6,3 +6,6 @@ devel
 profile.tmp
 
 env
+
+.vscode/
+.idea/
